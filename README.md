@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YouTubeVideoSummary
 Summarize videos using openAI
 =======
@@ -55,5 +54,3 @@ To set up the project locally, follow these steps:
    ```bash
    flask run
 
-
->>>>>>> 3cfcf74 (Initial commit)
